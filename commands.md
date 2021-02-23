@@ -10,10 +10,10 @@ npm install mineflayer-auto-auth
 ### setting up visual studio code:
 go here:  https://code.visualstudio.com/
 then Download it, 
-then open it, then download index.js and start_bot.js
+then open it, then download index.js.
 
 ### running the bot:
- make sure you have both files in the same folder, then hit f5 in vs code (making sure you have index.js open and selected) and run with nodejs.
+ Run index.js with vs code, when it is opened, hit f5 and select nodejs.
  
  ### troubleshooting:
  
